@@ -42,7 +42,7 @@ ul{
     margin:0;
     top:0;
     width: 100%;
-    background-color:rgba(28, 31, 28, 0.74);
+    background-color:rgba(28, 31, 28, 1);
     display:flex;
     justify-content: space-around;
     transition-duration: 0.4s;
